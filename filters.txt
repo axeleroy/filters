@@ -1,3 +1,8 @@
+! Title: Axel's Filters
+! Updated: 2025-06-16T11:39:00Z
+! Expires: 12 hours (update frequency)
+! Homepage: https://github.com/axeleroy/filters
+
 ! 2024-01-08 https://www.notion.so
 ||accounts.google.com/gsi/iframe/*$subdocument
 
