@@ -1,0 +1,455 @@
+! 2024-01-08 https://www.notion.so
+||accounts.google.com/gsi/iframe/*$subdocument
+
+! 2024-01-24 https://hung.dev
+hung.dev##.Post-module--photo--yIM-m
+
+! 2024-02-26 https://thehustle.co
+thehustle.co##.blog-post-simple-sticky-cta-button
+thehustle.co##.blog-post-simple-sticky-cta-complementary-text
+thehustle.co##.blog-post-simple-sticky-cta-expanded-content
+
+! 2024-03-06 https://www.capital.fr
+||consent.capital.fr/*$subdocument
+
+! 2024-03-08 https://blog.appsignal.com
+blog.appsignal.com##.md\:-mx-12.sm\:my-10.my-8.not-prose
+
+! 2024-04-09 https://kyleshevlin.com
+kyleshevlin.com##.\32 xl\:sticky.top-8 > .gap-12.flex-col.flex
+
+! 2024-04-11 https://cssgradient.io
+||cssgradient.io/images/banner-4372da89.png$image
+cssgradient.io##.page-header_banner
+
+! 2024-05-13 https://www.smashingmagazine.com
+www.smashingmagazine.com##.partners__external
+
+! 2024-05-14 https://www.sitepoint.com
+www.sitepoint.com##div.inline-content:has(._ap_apex_ad)
+
+! 2024-05-15 https://tigerabrodi.blog
+tigerabrodi.blog##.animation.active.\32 xl\:h-14.justify-center.flex-wrap.w-full.h-12.flex.z-50.right-0.left-0.fixed.post-floating-bar
+
+! 2024-05-23 https://www.maiia.com
+@@||www.maiia.com/tarteaucitron/tarteaucitron.js$script,domain=www.maiia.com
+
+! 13 juin 2024 https://korben.info
+||korben.info/app/uploads/2021/09/soutenez-le-gros*.webp$image
+
+! 14 juin 2024 https://blog.logrocket.com
+blog.logrocket.com##.show.sidebar
+
+! 14 juin 2024 https://www.prisma.io
+||www.prisma.io/docs/ai_button.svg$image
+www.prisma.io###kapa-widget-container
+
+! 24 juin 2024 https://www.ouest-france.fr
+||www.ultimedia.com/deliver/generic/iframe/mdtk/*$subdocument
+
+! 18 juil. 2024 https://www.builder.io
+www.builder.io##.builder-component-d42d357ff1554ce5bd577091fdfd33b9.builder-component > .builder-content
+www.builder.io##.builder-component-02714711c4b647959d015e34679ca6ee.builder-component > .builder-content
+
+! 5 sept. 2024 https://simdrifting.fr
+simdrifting.fr###cajhstfx-blanket > div
+simdrifting.fr###cajhstfx-blanket
+
+! 27 sept. 2024 https://www.theatlantic.com
+www.theatlantic.com##.ArticleBody_root__2gF81 > div
+
+! 14 nov. 2024 https://assure.ameli.fr
+||assure.ameli.fr/PortailAS/chatbot/images/bot-bulle.svg$image
+
+! 26 nov. 2024 https://mail.proton.me
+mail.proton.me##.pt-12.p-6.spotlight-inner
+
+! 19 déc. 2024 https://github.com
+github.com##.copilotPreview__container
+
+! 19 déc. 2024 https://www.aclarify.com
+www.aclarify.com##.rounded-t-4xl.md\:gap-8.gap-3.shadow.flex-wrap.items-center.justify-center.flex.text-center.text-white.bg-primary-light.py-4.px-6
+
+! 19 déc. 2024 https://gls.proxipick.com
+||snkt.io/avis-gls-noel$subdocument
+
+! 20 déc. 2024 https://github.com
+github.com##.AppHeader-CopilotChat
+
+! Smooth Scrolling libraries
+*/ScrollSmoother.min.js
+*/lenis.min.js
+*/fluidscroll.min.js
+*/bettersmoothscroll.js
+
+! 6 janv. 2025 https://www.amandinecooking.com
+www.amandinecooking.com###cuisine_recette_modal
+www.amandinecooking.com###cuisine_recette_overlay
+
+! Hide change-detection.io's Self-Host call
+###hosted-sticky
+
+! Hide useless offline alert on Deezer
+www.deezer.com##.alert-wrapper:has-text(Ton ordinateur semble être hors ligne. Nous essayons de te reconnecter.)
+www.deezer.com##.alert-wrapper:has-text("Your computer seems to be offline. We'll keep trying to reconnect.")
+
+! 24 janv. 2025 https://github.com
+||camo.githubusercontent.com/0e4a4c9c33927ac9cf93907ec12a9b5e22f2d825954b6f2c50290269d3fa3aea/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626a593265576335593246305a5735364d6d5234615745306444687a5a586c696458526d59575a79616a6c3162575a6964585a7063795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3837434b4471457256664d71592f67697068792e676966$image
+
+! 27 janv. 2025 https://mail.google.com
+google.com##[aria-label="Ask Gemini"]
+google.com##[aria-label="Essayer Gemini"]
+
+! 27 janv. 2025 https://nextjs.org
+nextjs.org##.group\/ai
+
+! 10 févr. 2025 https://github.com
+github.com##button:has-text("GitHub Copilot")
+
+! 27 mars 2025 https://www.bbss.dev
+www.bbss.dev##.c-subscribe-box__wrapper
+www.bbss.dev##.rainbow
+
+! 10 avr. 2025 https://docs.google.com
+docs.google.com##.FormulaBarContainerGeminiSummarizeButton
+docs.google.com##.appsElementsSidekickEntryPointMorphSpark
+docs.google.com##.waffle-griddy-suggestions-bubble-container:has-text(Analyse my data)
+
+! 14 avr. 2025 https://v4.zod.dev
+v4.zod.dev###inkeep-shadowradix-«r0»
+
+! 14 avr. 2025 https://www.joshwcomeau.com
+www.joshwcomeau.com##.w13k5jd7
+
+! 14 avr. 2025 https://github.com
+github.com##[class*="CopilotWorkspaceButton-module__"]
+
+! Hide distracting Notion AI animated picture
+||www.notion.so/_assets/b68268645067ada1.gif$image
+
+! Do not translate Reddit posts
+||reddit.com^$removeparam=tl
+
+! 29 avr. 2025 https://www.notion.so
+www.notion.so##[href="/chat"]
+
+! 5 mai 2025 https://app.slack.com
+app.slack.com##[class^="collapsedContainer__"]
+
+! 21 mai 2025 https://app.datadoghq.eu
+app.datadoghq.eu##.druids_search-bar_rich-search-bar__ask-button
+
+! Hide pesky Substack subscribe modal
+##.pencraft:has(>[class*="subscribeDialog"])
+
+! 11 juin 2025 https://docs.github.com
+docs.github.com##[class^="Header_displayOverLarge__"] > [class^="Popover-sc-"]
+
+! 13 juin 2025 https://timepeek.app
+timepeek.app##.css-1uq928u.MuiBox-root
+
+! 2021-10-28 https://www.androidpolice.com
+www.androidpolice.com##[id^=dynamically-injected-refresh-ad-zone-div-gpt-ad-]
+
+! 2021-11-21 https://reason.com
+reason.com##.ad-height-mobile-250.ad-height-desktop-250.freestar-ad-sidebar-container.freestar-incontent-ad.advertisement
+reason.com##[id]
+
+! 2021-11-29 https://www.francetvinfo.fr
+www.francetvinfo.fr##.c-signature-wrapper
+||assets.webservices.francetelevisions.fr/v1/assets/images/74/f9/34/cf8da526-082c-4ea6-bd9b-92d4164f21a7.jpg?w=432&h=243$image
+www.francetvinfo.fr##.magneto-wrapper__content
+www.francetvinfo.fr##.ftv-magneto--ui
+||www.francetvinfo.fr/pictures/JYcaHzclIjqoNDOLX_3ZG3rXO_4/640x360/2021/11/28/eltVideoWs-537507-61a355bdd0e04.jpg$image
+www.francetvinfo.fr###\35 0ecd80a-5033-11ec-a9f4-000d3a2427ab
+
+! 2021-12-12 https://fr.zooexperte.com
+fr.zooexperte.com##.whatsapp-icon
+||fr.zooexperte.com/image/cache/trustmark-50x50.png$image
+
+! 2022-01-07 https://explosm.net
+explosm.net##.hlwxwc.HeroSlider__Container-sc-fzes6-1 > .slick-initialized.slick-slider
+
+! 2022-01-28 https://www.capital.fr
+www.capital.fr##[id^=Pave-Haut2]
+
+! 2022-01-29 https://arstechnica.com
+arstechnica.com##.superscroll-ad
+
+! 2022-03-13 https://www.geo.fr
+www.geo.fr##[id^=Pave-Haut2]
+www.geo.fr##.no-inject-ads.slideShowPush
+
+! 2022-03-18 https://highoncinemaa.com
+highoncinemaa.com##.inerCnt
+
+! 2022-03-19 https://www.thedailybeast.com
+www.thedailybeast.com##.Mobiledoc > div > .Sizer
+
+! 2022-03-22 https://www.newyorker.com
+www.newyorker.com##.persistent-bottom.hdtrtw.PersistentBottomWrapper-bziBCA
+
+! 2022-04-28 https://www.wsj.com
+www.wsj.com##.article-center.article-content > .wsj-immersive-ad-container
+www.wsj.com##[id^=MOBILE_]
+
+! 2022-05-31 https://www.statnews.com
+www.statnews.com##.dfp-ad-midbreaker-wrap
+www.statnews.com##[class^=dfp-ad-midbreaker]
+www.statnews.com##.stat-form-inline
+www.statnews.com##.popularnow.read-more
+www.statnews.com##.standard.read-more
+
+! 2022-06-06 https://www.bloomberg.com
+www.bloomberg.com##.paywall.postr-recirc--pursuits.postr-recirc
+
+! 2022-06-06 https://www.newyorker.com
+www.newyorker.com##.paywall-bar__collapsed.paywall-bar__wrapper
+
+! 2022-08-18 https://www.rollingstone.com
+www.rollingstone.com##[id^=adm-inline-article-ad-]
+www.rollingstone.com##.variant-original.c-related
+www.rollingstone.com##.pmc-contextual-player
+
+! 2022-08-18 https://www.economist.com
+www.economist.com##div.advert--inline
+
+! 2022-08-28 https://www.eurogamer.net
+www.eurogamer.net##[id^=div-ga-autoad_inlinead_lazyload_]
+www.eurogamer.net##div.collapsible.inlinead > .advert_label
+
+! 2022-09-01 https://www.propublica.org
+www.propublica.org##aside.full.bb-ad
+
+! 2022-09-01 https://variety.com
+variety.com##[id^=adm-inline-article-ad-]
+
+! 2022-09-01 https://collider.com
+collider.com##.ad-zone-container
+
+! 2022-09-03 https://www.cheatsheet.com
+www.cheatsheet.com##.sticky-ad
+
+! 2022-09-11 https://lesjoiesducode.fr
+lesjoiesducode.fr##.mobile-ad
+
+! 2022-09-11 https://www.formula1.com
+www.formula1.com##strong:has(> a)
+www.formula1.com##a:has(> strong)
+
+
+! 2022-09-15 https://www.tweaktown.com
+www.tweaktown.com##div.adcon
+
+! 2022-09-18 https://www.wsj.com
+www.wsj.com##.inline.article__inset--wrap.article__inset--type-InsetNewsletterSignup.article__inset.scope-web\|mobileapps.type-InsetNewsletterSignup.media-object
+www.wsj.com##.media-object-rich-text
+
+! 2022-09-23 https://www.theatlantic.com
+www.theatlantic.com##.ArticleRelatedContentModule_root__BBa6g
+www.theatlantic.com###injected-recirculation-link-0
+www.theatlantic.com###injected-recirculation-link-1
+
+! 2022-09-23 https://www.pcgamer.com
+www.pcgamer.com##.vid-present.van_vid_carousel
+
+! 2022-10-10 https://www.skysports.com
+www.skysports.com##.ui-consent-roadblock
+
+! 2022-11-12 https://www.theregister.com
+www.theregister.com##div.gtag_display
+www.theregister.com##.listinks
+
+! 2022-11-16 https://www.fastcompany.com
+www.fastcompany.com##.mobile-video-module
+www.fastcompany.com##.mobile-sticky-player
+
+! 2022-11-23 https://www.skysports.com
+www.skysports.com##.article__widge-container--bordered
+
+! 2022-12-07 https://www.marmiton.org
+||assets.marmiton.org/adLogo.svg$image
+www.marmiton.org##.hlrpA.SHRD__sc-1vcxege-0
+
+! 2022-12-23 https://www.thefp.com
+www.thefp.com##iframe.substack-frame-root:nth-of-type(2)
+
+! 2022-12-24 https://www.news18.com
+www.news18.com##.slick-initialized.slick-slider
+www.news18.com##.stky-ad-footer.jsx-371014378
+
+! 2022-12-25 https://nationalpost.com
+nationalpost.com##div.article-content__ad-group.ad__section-border > .ad > .ad__container
+
+! 2022-12-27 https://www.radiofrance.fr
+www.radiofrance.fr##.svelte-17s59rr.inread.AdSlot
+
+! 2022-12-30 https://www.techradar.com
+www.techradar.com##.ad-unit
+www.techradar.com##.van_vid_carousel__container
+www.techradar.com##.van_vid_carousel__padding
+
+! 2023-01-06 https://www.20minutes.fr
+www.20minutes.fr##.mbrs-jc-cntr.mbrs-fd-col.mbrs-d-flex.wrap-page.wrap.mbrs-cookieBanner-bloc
+www.20minutes.fr##.mbrs-cookieBanner
+www.20minutes.fr##.ad-dfp
+
+! 2023-02-15 https://screenrant.com
+screenrant.com##.dynamically-injected-refresh-ad-zone
+
+! 2023-02-17 https://www.konbini.com
+||geo.dailymotion.com/player/*$subdocument
+www.konbini.com###stickyContainer
+
+! 2023-02-27 https://www.techradar.com
+www.techradar.com##.ad-unit
+
+! 2023-03-02 https://www.thegamer.com
+www.thegamer.com##.ad-zone
+
+! 2023-03-08 https://restofworld.org
+restofworld.org##.most-popular
+restofworld.org##.inline-newsletter--world.inline-newsletter
+
+! 2023-03-08 https://racingnews365.com
+racingnews365.com##.content-field__content-items
+
+! 2023-03-08 https://restofworld.org
+restofworld.org##.inline-newsletter
+
+! 2023-03-16 https://twitter.com
+twitter.com###credential_picker_iframe
+
+! 2023-03-20 https://www.cuisineaz.com
+www.cuisineaz.com##.dynInFeed
+
+! 2023-03-20 https://nypost.com
+nypost.com##div.d-none-lg.d-block.ad--inline.ad--container.ad > .ad__wrapper
+
+! 2023-03-22 https://jobs.makesense.org
+jobs.makesense.org##.vm--container.disabled-job
+
+! 2023-03-24 https://www.robinwieruch.de
+www.robinwieruch.de##.ShareButtons-module--share-button-list--2aikG
+
+! 2023-03-24 https://www.lingalot.com
+www.lingalot.com##.adthrive-ad
+
+! 2023-03-29 https://www.lunion.fr
+www.lunion.fr##.r-pub--inread
+
+! 2023-04-04 https://www.salon.com
+www.salon.com##.outer-ad-unit-wrapper
+
+! 2023-04-06 https://petapixel.com
+petapixel.com##.instream_ad
+
+! 2023-04-11 https://www.gamespot.com
+www.gamespot.com##.mapped-ad
+
+! 2023-04-13 https://www.independent.co.uk
+www.independent.co.uk##.video-sticky-video
+
+! 2023-04-13 https://www.cbr.com
+www.cbr.com##[id^=adsninja-ad-zone-div-gpt-ad-]
+
+! 2023-04-18 https://www.simcoereformer.ca
+www.simcoereformer.ca##.ad_counter_2.article-content__ad-group.ad__section-border > .ad
+www.simcoereformer.ca##.ad
+
+! 2023-04-24 https://www.courrier-picard.fr
+www.courrier-picard.fr##.r-pub--inread
+
+! 2023-05-03 https://firstsportz.com
+firstsportz.com##.code-block
+
+! 2023-05-17 https://www.contexte.com
+www.contexte.com##.ctx-LockedBanner
+
+! 2023-08-04 https://www.kelwatt.fr
+www.kelwatt.fr##.popup-shown.sliding-popup-bottom
+
+! 2023-08-09 https://www.fastcompany.com
+www.fastcompany.com###fc-anyclip > .show.ad-wrapper--ad-unit-wrap > .ad-wrapper__ad-slug
+www.fastcompany.com###fc-anyclip > .show.ad-wrapper--ad-unit-wrap
+
+! 2023-08-18 https://movieweb.com
+movieweb.com##.ad-zone-content-character-count-repeatable.ad-zone
+movieweb.com##.ad-current
+
+! 2024-03-08 https://www.geo.fr
+www.geo.fr##.ads-onlyMobile.ads-paveHaut.containerAds
+
+! 2024-03-11 https://edition.cnn.com
+edition.cnn.com##p.inline-placeholder.paragraph:nth-of-type(2)
+edition.cnn.com##[id^=ad_]
+
+! 2024-03-28 https://kotaku.com
+kotaku.com##.cLmdPT.bGgkuB.sc-17kx9cd-2.sc-17kx9cd-1
+kotaku.com##.kTRrxu.bGgkuB.sc-17kx9cd-3.sc-17kx9cd-1
+
+! 2024-05-01 https://kagi.com
+kagi.com###layout-v2 > ._0_RESULT_BOOSTED.search-result._0_SRI > .__sri-title._0_TITLE > .__sri_more_menu_box > .k_ui_dropdown._0_k_ui_dropdown.__sri_more_menu_ia.__sri_more_menu > .k_ui_dropdown_first_item._0_k_ui_dropdown_first_item > i > svg
+
+! 2 juin 2024 https://www.marketwatch.com
+www.marketwatch.com##amp-subscriptions-dialog > .meter.paywall__section-container
+
+! 13 juin 2024 https://gls-group.com
+gls-group.com##.active.bg-soft-blue-sky.carousel-item
+
+! 10 juil. 2024 https://mail.cloudsecurity.club
+mail.cloudsecurity.club##.md\:gap-2.md\:grid-cols-1.p-2.grid-cols-3.grid
+
+! 29 juil. 2024 https://www.eurogamer.net
+||cmpsp.eurogamer.net/index.html?hasCsp=true&message_id=*$subdocument
+
+! 6 août 2024 https://www.lequipe.fr
+||accounts.google.com/gsi/iframe/select$subdocument
+
+! 5 oct. 2024 https://www.maisonsvictorhugo.paris.fr
+www.maisonsvictorhugo.paris.fr###askmona-widget
+
+! 6 oct. 2024 https://www.theatlantic.com
+www.theatlantic.com##.ArticleBody_root__2gF81 > div
+
+! 28 oct. 2024 https://fr.brompton.com
+brompton.com##.sticky-banner__inner
+
+! 30 oct. 2024 https://bonjourlondres.fr
+||quiz.tryinteract.com/$subdocument
+
+! 26 nov. 2024 https://malcolminthemiddle.fandom.com
+
+fandom.com##.mobileDrawer
+
+! 30 nov. 2024 https://blog.koenvh.nl
+blog.koenvh.nl##.\32 xl\:h-14.dark\:text-slate-50.dark\:bg-slate-900.dark\:border-slate-700.shadow-xl.text-slate-800.text-sm.py-1.px-5.bg-white.border-slate-200.border-1\/2.rounded-full.justify-center.items-center.flex-wrap.shrink.h-12.flex.mx-auto.relative
+
+! 9 déc. 2024 https://boris.schapira.dev
+boris.schapira.dev##.next.nav-arrow
+
+! 19 déc. 2024 https://www.inc.com
+www.inc.com##.py-1.px-\[10px\].border-t-\[\#ececec\].border-t.gap-2.items-center.flex
+www.inc.com##.jw-reset.jw-wrapper
+www.inc.com###\:Raghbe9uuurtkq\: > .jw-reset.jw-aspect
+
+! 27 déc. 2024 https://sherwood.news
+sherwood.news##.inline-stock > .inline-stock-positive > span, .inline-stock > .inline-stock-negative > span
+
+! 29 déc. 2024 https://github.com
+github.com##.copilotPreview__container
+github.com##.AppHeader-CopilotChat
+
+! 31 déc. 2024 https://parksandrecreation.fandom.com
+fandom.com##.wds-mobile-drawer
+
+! 28 janv. 2025 https://foundationcapital.com
+foundationcapital.com##.header-top.announcement
+
+
+! 13 mai 2025 https://www.bloomberg.com
+www.bloomberg.com##[class^="styles_takeaways__" ]
+
+! 3 juin 2025 https://www.motorsport.com
+www.motorsport.com##.overscroll-contain.overflow-y-hidden.overflow-x-auto.relative.msnt-scroller__scroller
+www.motorsport.com##.t\:border-b-divider-100.border-b-menu-border-main.t\:bg-bg-page.bg-bg-surface-brand.border-b.py-4.z-20.visible.sticky.block.msnt-sticky-recommendations-strip
