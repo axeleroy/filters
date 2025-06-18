@@ -458,3 +458,122 @@ www.bloomberg.com##[class^="styles_takeaways__" ]
 ! 3 juin 2025 https://www.motorsport.com
 www.motorsport.com##.overscroll-contain.overflow-y-hidden.overflow-x-auto.relative.msnt-scroller__scroller
 www.motorsport.com##.t\:border-b-divider-100.border-b-menu-border-main.t\:bg-bg-page.bg-bg-surface-brand.border-b.py-4.z-20.visible.sticky.block.msnt-sticky-recommendations-strip
+
+fr.slideshare.net###clips-button-top > .clearfix.container
+
+www.reverso.net###content > .main-left-wrapper > .search-wrapper.search-main-wrap > .left-part
+www.reverso.net###content > .main-left-wrapper > .search-wrapper.search-main-wrap > .discover-block
+
+! 30/10/2017 à 21:33:08 https://fr.wikipedia.org/wiki/Cuisine_lorraine
+fr.wikipedia.org##.frb-main
+
+! 21/12/2017 à 21:44:07 https://www.facebook.com/?sk=h_chr
+www.facebook.com###u_ps_0_0_a
+
+! 17/04/2018 à 22:47:46 https://www.impots.gouv.fr/portail/
+www.impots.gouv.fr##.in.fade.modal-backdrop
+
+! 17/04/2018 à 22:47:56 https://www.impots.gouv.fr/portail/
+www.impots.gouv.fr###prehome-modal
+
+! 03/05/2018 à 19:40:22 https://www.aptx.com/products?field_product_category_tid=128&page=4
+www.aptx.com###block-block-11 > .row
+
+! 30/07/2018 à 17:16:51 https://www.facebook.com/?sk=h_chr
+www.facebook.com##div.egoOrganicColumn.s_1cu9kqnfn7.pagelet:nth-of-type(1) > ._1-ia
+
+! 30/07/2018 à 17:43:17 https://www.facebook.com/
+www.facebook.com###pagelet_ego_pane
+
+! 31/07/2018 à 11:29:39 https://www.facebook.com/?sk=h_chr
+www.facebook.com###u_jsonp_4_j
+
+! 09/08/2018 à 14:50:10 https://www.udemy.com/
+www.udemy.com##.smart-bar--smart-bar-dark-theme--18ulO.smart-bar--smart-bar--teal--Qijai.smart-bar--smart-bar--1rOkE
+
+! 09/08/2018 à 14:50:16 https://www.udemy.com/
+www.udemy.com##.mb0 > div
+
+! Quantcast
+||quantcast.mgr.consensu.org/*
+
+! 28/09/2019 https://github.com
+github.com##.flash-error.js-notice.flash-full.flash
+
+! 07/10/2019 http://www.amandinecooking.com
+www.amandinecooking.com###ac_overlay
+||cdnfiles.azurewebsites.net/images/amandinecooking/modal_v2_fx.png$image
+
+! 27/10/2019 https://medium.com
+||smartlock.google.com/iframe/request*$subdocument
+medium.com##.pf.pe.pd.pc.pb.pa.oz.oy.ox.ow.ov.ou.ot.os.or.oq.op.oo.on.om.ol.ok.oj.oi.oh.og.of.oe.od.oc.ob.ak.oa.kb.t.s
+
+! 25/12/2019 http://www.amandinecooking.com
+||cdnfiles.azurewebsites.net/images/amandinecooking/v3f_fx.png$image
+www.amandinecooking.com###ac_modal
+
+! 03/04/2020 https://medium.com
+||accounts.google.com/gsi/iframe/*$subdocument
+
+! 17/04/2020 https://css-tricks.com
+css-tricks.com###all-ads
+
+! 01/05/2020 https://arstechnica.com
+||prod-native.actionbutton.co/*$subdocument
+
+! 01/05/2020 https://dev.to
+dev.to##.base-article-show-sidebar-variant
+
+! 18/07/2020 http://orfelins.e-monsite.com
+orfelins.e-monsite.com###ems-try-link
+
+! 04/08/2020 leroy.sh
+@@||gc.zgo.at/count.js$script
+@@||axeleroy.goatcounter.com^$image
+
+||cdn.cookielaw.org/*
+
+! 2021-02-28 https://www.3dmark.com
+www.3dmark.com###compare-widget
+
+! 2022-01-30 https://explosm.net
+explosm.net##.hlwxwc.HeroSlider__Container-sc-fzes6-1 > .slick-initialized.slick-slider
+
+! 2022-02-23 https://www.skyscanner.fr
+www.skyscanner.fr##.BpkCard_bpk-card--padded__ZjU0N.BpkCard_bpk-card__YzU1N
+www.skyscanner.fr##.BpkCard_bpk-card--padded__ZjU0N.BpkCard_bpk-card__YzU1N
+www.skyscanner.fr##.BpkCard_bpk-card--padded__ZjU0N.BpkCard_bpk-card__YzU1N
+
+! 2022-03-11 https://laboconnect.com
+laboconnect.com##.in.fade.modal-backdrop
+
+! 2022-06-11 https://www.greenpeace.fr
+www.greenpeace.fr##.b-toaster-bottom-right.b-toaster
+
+! 2022-09-30 https://techbriefly.com
+techbriefly.com##.post-wrapper > .pre-render-cmp.ez_modal
+
+! 2022-10-02 https://www.formula1.com
+www.formula1.com##a:has(strong)
+
+! 2023-03-12 https://docs.nestjs.com
+docs.nestjs.com##app-banner-devtools
+docs.nestjs.com##.banner
+
+! 2023-03-12 http://expressjs.com
+expressjs.com###blm-banner
+
+! 2023-03-12 https://docs.nestjs.com
+docs.nestjs.com##.top-bar
+
+! 2023-04-30 https://www.marmiton.org
+www.marmiton.org##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
+
+! 15 févr. 2025 https://github.com
+github.com##.copilotPreview__container
+
+! 29 mars 2025 https://github.com
+github.com##.AppHeader-CopilotChat
+
+! 26 avr. 2025 https://www.bbc.co.uk
+www.bbc.co.uk##.bbccookies-banner
