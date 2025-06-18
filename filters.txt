@@ -179,7 +179,6 @@ lesjoiesducode.fr##.mobile-ad
 www.formula1.com##strong:has(> a)
 www.formula1.com##a:has(> strong)
 
-
 www.tweaktown.com##div.adcon
 
 www.wsj.com##.inline.article__inset--wrap.article__inset--type-InsetNewsletterSignup.article__inset.scope-web\|mobileapps.type-InsetNewsletterSignup.media-object
@@ -306,7 +305,6 @@ brompton.com##.sticky-banner__inner
 
 ||quiz.tryinteract.com/$subdocument
 
-
 fandom.com##.mobileDrawer
 
 blog.koenvh.nl##.\32 xl\:h-14.dark\:text-slate-50.dark\:bg-slate-900.dark\:border-slate-700.shadow-xl.text-slate-800.text-sm.py-1.px-5.bg-white.border-slate-200.border-1\/2.rounded-full.justify-center.items-center.flex-wrap.shrink.h-12.flex.mx-auto.relative
@@ -325,7 +323,6 @@ github.com##.AppHeader-CopilotChat
 fandom.com##.wds-mobile-drawer
 
 foundationcapital.com##.header-top.announcement
-
 
 www.bloomberg.com##[class^="styles_takeaways__" ]
 
@@ -390,8 +387,6 @@ www.3dmark.com###compare-widget
 
 explosm.net##.hlwxwc.HeroSlider__Container-sc-fzes6-1 > .slick-initialized.slick-slider
 
-www.skyscanner.fr##.BpkCard_bpk-card--padded__ZjU0N.BpkCard_bpk-card__YzU1N
-www.skyscanner.fr##.BpkCard_bpk-card--padded__ZjU0N.BpkCard_bpk-card__YzU1N
 www.skyscanner.fr##.BpkCard_bpk-card--padded__ZjU0N.BpkCard_bpk-card__YzU1N
 
 laboconnect.com##.in.fade.modal-backdrop
