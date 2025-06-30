@@ -411,3 +411,5 @@ github.com##.copilotPreview__container
 github.com##.AppHeader-CopilotChat
 
 www.bbc.co.uk##.bbccookies-banner
+
+www.linkedin.com##.news-module--with-game
