@@ -413,3 +413,6 @@ github.com##.AppHeader-CopilotChat
 www.bbc.co.uk##.bbccookies-banner
 
 www.linkedin.com##.news-module--with-game
+
+# Cut the bullshit, only display the recipe
+freethepickle.fr##.single-content > :not(.wprm-recipe-container)
