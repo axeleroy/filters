@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2025-06-16T11:39:00Z
+! Updated: 2025-10-29T10:00:00Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -413,6 +413,7 @@ github.com##.AppHeader-CopilotChat
 www.bbc.co.uk##.bbccookies-banner
 
 www.linkedin.com##.news-module--with-game
+www.linkedin.com##.fie-impression-container
 
 # Cut the bullshit, only display the recipe
 freethepickle.fr##.single-content > :not(.wprm-recipe-container)
