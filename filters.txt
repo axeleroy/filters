@@ -414,5 +414,5 @@ www.bbc.co.uk##.bbccookies-banner
 
 www.linkedin.com##.news-module--with-game
 
-# Cut the bullshit, only display the recipe
-freethepickle.fr##.single-content > :not(.wprm-recipe-container)
+# Cut the bullshit, only display the recipe and links to other recipes
+freethepickle.fr##.single-content > :not(.is-stacked-on-mobile, font, .wprm-recipe-container), .single-content > font > :not(.wprm-recipe-container)
