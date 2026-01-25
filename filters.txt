@@ -421,3 +421,6 @@ www.merriam-webster.com###topten-lookups-right-rail-placeholder
 
 ! Hide referal button on Proton
 proton.me##.button-promotion
+
+! Hide "Upgrade to Business Edition" on Portainer CE
+##[ng-app="portainer"] sidebar > div > button
