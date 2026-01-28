@@ -6,3 +6,5 @@ A dump of custom µBlock filters to share across my devices.
   filters for many websites.
 - [Hide GitHub Copilot](https://raw.githubusercontent.com/axeleroy/filters/refs/heads/main/github-copilot.txt):
   hides calls to use GitHub Copilot.
+- [Block smooth-scrolling and scroll-fading libraries](https://raw.githubusercontent.com/axeleroy/filters/refs/heads/main/scrolling.txt):
+  blocks and disables common libraries.

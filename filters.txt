@@ -57,12 +57,6 @@ www.aclarify.com##.rounded-t-4xl.md\:gap-8.gap-3.shadow.flex-wrap.items-center.j
 
 github.com##.AppHeader-CopilotChat
 
-! Smooth Scrolling libraries
-*/ScrollSmoother.min.js
-*/lenis.min.js
-*/fluidscroll.min.js
-*/bettersmoothscroll.js
-
 www.amandinecooking.com###cuisine_recette_modal
 www.amandinecooking.com###cuisine_recette_overlay
 

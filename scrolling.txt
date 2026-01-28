@@ -1,0 +1,21 @@
+! Title: Block smooth-scrolling and scroll-fading libraries
+! Updated: 2026-01-28T11:00:00Z
+! Expires: 12 hours (update frequency)
+! Homepage: https://github.com/axeleroy/filters
+! An attempt to block common smooth-scrolling and scroll-fading libraries.
+
+! Smooth-scrolling libraries
+*/ScrollSmoother.js
+*/ScrollSmoother.min.js
+*/lenis.js
+*/lenis.min.js
+*/fluidscroll.js
+*/fluidscroll.min.js
+*/bettersmoothscroll.js
+*/bettersmoothscroll.min.js
+
+! Scroll-fading libraries
+*/scroll-fade.js
+*/scroll-fade.min.js
+*##*:remove-class(scrollFade)
+*##*:remove-class(scroll-fade)
