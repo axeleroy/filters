@@ -9,6 +9,8 @@
 */ScrollSmoother.min.js
 */lenis.js
 */lenis.min.js
+*/luxy.js*
+*/luxy.min.js
 */fluidscroll.js
 */fluidscroll.min.js
 */bettersmoothscroll.js
