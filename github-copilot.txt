@@ -1,0 +1,12 @@
+! Title: Hide GitHub Copilot
+! Updated: 2026-01-28T11:00:00Z
+! Expires: 12 hours (update frequency)
+! Homepage: https://github.com/axeleroy/filters
+
+github.com##button:has-text("GitHub Copilot")
+github.com##[class^="prc-ButtonGroup-ButtonGroup"]:has(a[href="/copilot"])
+github.com##[class*="CopilotWorkspaceButton-module__"]
+github.com##.copilotPreview__container
+github.com##.AppHeader-CopilotChat
+github.com##.copilotPreview__container
+github.com##.AppHeader-CopilotChat

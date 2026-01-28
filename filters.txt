@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2025-10-29T10:00:00Z
+! Updated: 2026-01-28T11:00:00Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -80,8 +80,6 @@ google.com##[aria-label="Essayer Gemini"]
 
 nextjs.org##.group\/ai
 
-github.com##button:has-text("GitHub Copilot")
-
 www.bbss.dev##.c-subscribe-box__wrapper
 www.bbss.dev##.rainbow
 
@@ -92,8 +90,6 @@ docs.google.com##.waffle-griddy-suggestions-bubble-container:has-text(Analyse my
 v4.zod.dev###inkeep-shadowradix-«r0»
 
 www.joshwcomeau.com##.w13k5jd7
-
-github.com##[class*="CopilotWorkspaceButton-module__"]
 
 ! Hide distracting Notion AI animated picture
 ||www.notion.so/_assets/b68268645067ada1.gif$image
@@ -317,9 +313,6 @@ www.inc.com###\:Raghbe9uuurtkq\: > .jw-reset.jw-aspect
 
 sherwood.news##.inline-stock > .inline-stock-positive > span, .inline-stock > .inline-stock-negative > span
 
-github.com##.copilotPreview__container
-github.com##.AppHeader-CopilotChat
-
 fandom.com##.wds-mobile-drawer
 
 foundationcapital.com##.header-top.announcement
@@ -406,9 +399,7 @@ docs.nestjs.com##.top-bar
 
 www.marmiton.org##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 
-github.com##.copilotPreview__container
 
-github.com##.AppHeader-CopilotChat
 
 www.bbc.co.uk##.bbccookies-banner
 
@@ -419,7 +410,7 @@ freethepickle.fr##.single-content > :not(.is-stacked-on-mobile, font, .wprm-reci
 
 www.merriam-webster.com###topten-lookups-right-rail-placeholder
 
-! Hide referal button on Proton
+! Hide referral button on Proton
 proton.me##.button-promotion
 
 ! Hide "Upgrade to Business Edition" on Portainer CE
