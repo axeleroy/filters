@@ -399,7 +399,7 @@ www.bbc.co.uk##.bbccookies-banner
 
 www.linkedin.com##.news-module--with-game
 
-# Cut the bullshit, only display the recipe and links to other recipes
+! Cut the bullshit, only display the recipe and links to other recipes
 freethepickle.fr##.single-content > :not(.is-stacked-on-mobile, font, .wprm-recipe-container), .single-content > font > :not(.wprm-recipe-container)
 
 www.merriam-webster.com###topten-lookups-right-rail-placeholder
@@ -409,3 +409,5 @@ proton.me##.button-promotion
 
 ! Hide "Upgrade to Business Edition" on Portainer CE
 ##[ng-app="portainer"] sidebar > div > button
+
+###support-banner
