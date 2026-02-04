@@ -13,3 +13,4 @@ github.com##.AppHeader-CopilotChat
 github.com##[class^="prc-ActionList-ActionListItem"]:has([href="/copilot"])
 github.com##[class^="prc-ActionList-ActionListItem"]:has([href="https://github.com/mcp"])
 github.com##[class^="prc-ActionList-ActionListItem"]:has([href="/settings/copilot"])
+github.com##[class^="CopilotAgentModeButton"]
