@@ -405,7 +405,7 @@ freethepickle.fr##.single-content > :not(.is-stacked-on-mobile, font, .wprm-reci
 www.merriam-webster.com###topten-lookups-right-rail-placeholder
 
 ! Hide referral button on Proton
-proton.me##.button-promotion
+proton.me##[class^="button-promotion"]
 
 ! Hide "Upgrade to Business Edition" on Portainer CE
 ##[ng-app="portainer"] sidebar > div > button
