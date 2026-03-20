@@ -412,5 +412,7 @@ proton.me##[class^="button-promotion"]
 merriam-webster.com###topten-lookups-right-rail-placeholder
 merriam-webster.com###topten-thesaurus-lookups-right-rail-placeholder
 */api/v1/mwol-mp/*
+! Merriam-Webster Word of the Day
+merriam-webster.com##.wotd-side
 
 jobs.makesense.org##.exclusivity
