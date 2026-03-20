@@ -393,16 +393,12 @@ docs.nestjs.com##.top-bar
 
 www.marmiton.org##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop
 
-
-
 www.bbc.co.uk##.bbccookies-banner
 
 www.linkedin.com##.news-module--with-game
 
 ! Cut the bullshit, only display the recipe and links to other recipes
 freethepickle.fr##.single-content > :not(.is-stacked-on-mobile, font, .wprm-recipe-container), .single-content > font > :not(.wprm-recipe-container)
-
-www.merriam-webster.com###topten-lookups-right-rail-placeholder
 
 ! Hide referral button on Proton
 proton.me##[class^="button-promotion"]
@@ -411,3 +407,8 @@ proton.me##[class^="button-promotion"]
 ##[ng-app="portainer"] sidebar > div > button
 
 ###support-banner
+
+! Stop Merriam-Webster annoying auto-refresh thingy
+merriam-webster.com###topten-lookups-right-rail-placeholder
+merriam-webster.com###topten-thesaurus-lookups-right-rail-placeholder
+*/api/v1/mwol-mp/*
