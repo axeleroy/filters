@@ -401,7 +401,7 @@ www.linkedin.com##.news-module--with-game
 freethepickle.fr##.single-content > :not(.is-stacked-on-mobile, font, .wprm-recipe-container), .single-content > font > :not(.wprm-recipe-container)
 
 ! Hide referral button on Proton
-proton.me##[class^="button-promotion"]
+proton.me##[class*="button-promotion"]
 
 ! Hide "Upgrade to Business Edition" on Portainer CE
 ##[ng-app="portainer"] sidebar > div > button
