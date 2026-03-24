@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2026-01-28T11:00:00Z
+! Updated: 2026-03-24T10:56:00Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -416,3 +416,5 @@ merriam-webster.com###topten-thesaurus-lookups-right-rail-placeholder
 merriam-webster.com##.wotd-side
 
 jobs.makesense.org##.exclusivity
+
+##a[href="#/valetudo/ai"]
