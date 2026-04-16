@@ -418,3 +418,6 @@ merriam-webster.com##.wotd-side
 jobs.makesense.org##.exclusivity
 
 ##a[href="#/valetudo/ai"]
+
+! Promoted jobs posting
+www.linkedin.com##[class~="job-card-container"]:has-text("Promoted")
