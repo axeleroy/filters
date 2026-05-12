@@ -425,3 +425,5 @@ www.linkedin.com##[class~="job-card-container"]:has-text("Promoted")
 neciudan.dev##form#inlineSubscribeForm
 neciudan.dev###lizard-banner-insert
 neciudan.dev###inline-subscribe
+
+docs.astro.build##[aria-labelledby="learn-astro-course-1"]
