@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2026-04-16T17:58:59+02:00
+! Updated: 2026-05-23T20:31:03+02:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -62,6 +62,7 @@ www.amandinecooking.com###cuisine_recette_overlay
 
 ! Hide change-detection.io's Self-Host call
 ###hosted-sticky
+##.toggle-ai-mode
 
 ! Hide useless offline alert on Deezer
 www.deezer.com##.alert-wrapper:has-text(Ton ordinateur semble être hors ligne. Nous essayons de te reconnecter.)
