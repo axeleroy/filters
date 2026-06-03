@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2026-05-23T20:31:03+02:00
+! Updated: 2026-06-03T10:44:08+02:00
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -428,3 +428,6 @@ neciudan.dev###lizard-banner-insert
 neciudan.dev###inline-subscribe
 
 docs.astro.build##[aria-labelledby="learn-astro-course-1"]
+
+! Nightmarish AI-generated hero image on Alan
+*/*_Alan_FR_Website_Hero_KM_FinalFR_*.jpg
