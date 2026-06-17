@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2026-06-16T16:04:39.298Z
+! Updated: 2026-06-17T10:18:53.087Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -424,6 +424,8 @@ jobs.makesense.org##.exclusivity
 www.linkedin.com##[componentkey~="job-card-component-ref-"]:has-text("Promoted")
 ! Ad for Premium
 www.linkedin.com##div[componentkey="InitialStateHowYouFitSlot"]
+! Suggested posts
+www.linkedin.com##div[componentkey$="FeedType_MAIN_FEED_RELEVANCE"]:has(span):has-text("Suggestion")
 
 neciudan.dev##form#inlineSubscribeForm
 neciudan.dev###lizard-banner-insert
