@@ -1,5 +1,5 @@
 ! Title: Axel's Filters
-! Updated: 2026-06-17T10:20:46.007Z
+! Updated: 2026-06-17T10:25:18.182Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -427,6 +427,8 @@ www.linkedin.com##div[componentkey="InitialStateHowYouFitSlot"]
 ! Suggested posts
 www.linkedin.com##div[componentkey$="FeedType_MAIN_FEED_RELEVANCE"]:has(span):has-text("Suggestion")
 www.linkedin.com##div[componentkey$="FeedType_MAIN_FEED_RELEVANCE"]:has(span):has-text("Suggested")
+www.linkedin.com##div[componentkey$="FeedType_MAIN_FEED_RELEVANCE"]:has(span):has-text("Recommandé pour vous")
+www.linkedin.com##div[componentkey$="FeedType_MAIN_FEED_RELEVANCE"]:has(span):has-text("Recommended for you")
 
 neciudan.dev##form#inlineSubscribeForm
 neciudan.dev###lizard-banner-insert
