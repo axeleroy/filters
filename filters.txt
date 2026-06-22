@@ -1,5 +1,5 @@
-! Title: Axel's Filters
-! Updated: 2026-06-17T10:25:18.182Z
+! Title: Axel's filters dump
+! Updated: 2026-06-22T15:50:08.414Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -88,11 +88,12 @@ www.joshwcomeau.com##.w13k5jd7
 
 ! Hide distracting Notion AI animated picture
 ||www.notion.so/_assets/b68268645067ada1.gif$image
+app.notion.com##.notion-ai-button
+app.notion.com##[href="/chat"]
 
 ! Do not translate Reddit posts
 ||reddit.com^$removeparam=tl
 
-www.notion.so##[href="/chat"]
 
 app.slack.com##[class^="collapsedContainer__"]
 
@@ -421,7 +422,7 @@ jobs.makesense.org##.exclusivity
 ##a[href="#/valetudo/ai"]
 
 ! Promoted jobs posting
-www.linkedin.com##[componentkey~="job-card-component-ref-"]:has-text("Promoted")
+www.linkedin.com##div[componentkey~="job-card-component-ref-"]:has-text("Promoted")
 ! Ad for Premium
 www.linkedin.com##div[componentkey="InitialStateHowYouFitSlot"]
 ! Suggested posts
