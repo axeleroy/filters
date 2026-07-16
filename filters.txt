@@ -1,5 +1,5 @@
 ! Title: Axel's filters dump
-! Updated: 2026-06-22T15:50:08.414Z
+! Updated: 2026-07-16T13:54:35.315Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://github.com/axeleroy/filters
 
@@ -439,3 +439,6 @@ docs.astro.build##[aria-labelledby="learn-astro-course-1"]
 
 ! Nightmarish AI-generated hero image on Alan
 */*_Alan_FR_Website_Hero_KM_FinalFR_*.jpg
+
+! Announcement bar that keeps changing height, moving the entire page's content
+monpetitbresil.com##announcement-bar
