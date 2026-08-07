@@ -443,3 +443,8 @@ docs.astro.build##[aria-labelledby="learn-astro-course-1"]
 monpetitbresil.com##announcement-bar
 ! Slide show that keeps changing height, moving the entire page's content
 monpetitbresil.com##slide-show
+
+! Disable "see more" button and display entire content
+jobs.makesense.org##.job__group .group__content-wrapper--collapsed:style(max-height: unset !important;)
+jobs.makesense.org##.group__fade
+jobs.makesense.org##.group__toggle
